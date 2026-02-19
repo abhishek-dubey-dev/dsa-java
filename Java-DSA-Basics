@@ -1,0 +1,94 @@
+# 📌 About This Repository
+
+This repository contains all the fundamental Java concepts required to build a strong foundation in **Data Structures and Algorithms (DSA)**.
+
+It is structured in a step-by-step manner to help students:
+
+- Strengthen Java basics
+- Improve problem-solving skills
+- Prepare for coding interviews
+- Build logic from scratch
+
+---
+
+## 🧠 Topics Covered
+
+### 1️⃣ Java Fundamentals
+- Variables & Data Types
+- Type Casting
+- Operators
+- Input & Output (Scanner)
+- Comments
+
+### 2️⃣ Conditional Statements
+- if
+- if-else
+- else-if ladder
+- switch case
+- Ternary operator
+
+### 3️⃣ Loops
+- for loop
+- while loop
+- do-while loop
+- Nested loops
+- Pattern problems
+
+### 4️⃣ Methods & Functions
+- Method syntax
+- Parameters vs Arguments
+- Return types
+- Method Overloading
+- Call by Value in Java
+- Recursion Basics
+
+### 5️⃣ Strings
+- String creation
+- Important String methods
+- StringBuilder
+- Palindrome
+- Anagram basics
+
+### 6️⃣ Arrays
+- 1D Arrays
+- 2D Arrays
+- Traversing arrays
+- Reverse array
+- Max/Min in array
+- Prefix Sum (Basic intro)
+
+### 7️⃣ OOP Basics
+- Classes & Objects
+- Constructors
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- Interfaces
+
+---
+
+## 📂 Folder Structure
+
+```bash
+Java-DSA-Basics/
+│
+├── 01_Fundamentals/
+├── 02_Conditionals/
+├── 03_Loops/
+├── 04_Methods/
+├── 05_Strings/
+├── 06_Arrays/
+├── 07_OOPS/
+└── README.md
+```
+
+---
+## 🎯 Goals
+
+- ✅ Build strong Java fundamentals
+- ✅ Prepare for DSA
+- ✅ Crack product-based company interviews
+- ✅ Improve logical thinking
+
+---
